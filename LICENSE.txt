@@ -1,0 +1,38 @@
+/*
+ * ScreenShareOTR for Pidgin - Custom License
+ * -------------------------------------------
+ * 
+ * This file is part of ScreenShareOTR, a plugin for the Pidgin IM client.
+ * 
+ * ScreenShareOTR includes code licensed under the GNU General Public License (GPL),
+ * as well as custom code that is subject to additional restrictions.
+ *
+ * 1. Licensing:
+ *    - The overall project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+ *    - This plugin includes code from the following libraries:
+ *      - libdeflate
+ *      - libotr (modified by me)
+ *      - stb (https://github.com/nothings/stb) 
+ *    - Modifications to the code from the libraries are licensed under their respective licenses.
+ *    
+ * 2. Original Code:
+ *    - 3700 lines of code in this file are original and written by me, Yarik "Dyka" Wood.
+ *    - This original code is subject to the following additional restrictions:
+ *        - You may not modify, alter, or create derivative works based on my original code.
+ *        - You must provide attribution to me, [Your Name], in any redistributions of this code.
+ *        - The original code must remain intact and cannot be removed or replaced in any distributions.
+ *    
+ * 3. Special Permissions:
+ *    - The modified version of libotr is integrated into this plugin. The modifications are licensed under the GPL-3.0 license.
+ *    - If you wish to use my original code outside of the terms of the GPL-3.0, or if you require different licensing terms, please contact me for a separate licensing agreement.
+ *    
+ * 4. Warranty Disclaimer:
+ *    - This software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+ *    - In no event shall the authors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+ *    
+ * 5. Contact Information:
+ *    - For licensing questions or special permissions, please contact yarik1992@proton.me.
+ * 
+ * By using, modifying, or redistributing this file, you agree to the terms and conditions stated above.
+ * 
+ */

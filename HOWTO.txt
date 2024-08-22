@@ -1,0 +1,5 @@
+1) Create a directory called "pidgin-ssotr" in %APPDATA%
+2) Move libotr.dll, libdeflate.dll, pidgin-screenshare.png into the newly created directory
+3) Move pidgin-screenshare.dll into your Pidgin plugins folder (by default it is C:\Program Files (x86)\Pidgin\Plugins)
+4) Restart Pidgin and then Enable the plugin from Tools > Plugins > Screenshare OTR
+5) Click the "Share screen" button from a chat with any of your buddies to select which window you wish to share!
